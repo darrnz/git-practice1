@@ -1,0 +1,3 @@
+Name: Diego
+Age: 25
+Facorite color: Blue
